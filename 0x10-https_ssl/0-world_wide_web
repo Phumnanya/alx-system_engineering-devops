@@ -2,7 +2,7 @@
 # Configure my domain zone:
 # www --> 158009-lb-01 52.201.189.111
 # web-01 --> 158009-web-01 54.226.7.56
-# web-02 --> 19388-web-02 3.236.252.104
+# web-02 --> 158009-web-02 54.158.80.54
 
 # -- To be evaluated --
 # domain_information () {
