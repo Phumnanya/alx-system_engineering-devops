@@ -29,4 +29,3 @@ v1.0.0 (by /u/bryansomto)"
     if after is not None:
         return recurse(subreddit, hot_list, after, count)
     return hot_list
-
